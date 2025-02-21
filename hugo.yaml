@@ -39,8 +39,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/guisso-logo.png
-      dark: images/guisso-logo-dark.png
+      path: images/glivros.svg
+      dark: images/glivros.svg
       width: 80
 
   footer:
